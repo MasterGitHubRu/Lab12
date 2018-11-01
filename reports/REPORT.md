@@ -118,5 +118,5 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [hub](https://github.com/github/hub)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
